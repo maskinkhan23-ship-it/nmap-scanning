@@ -22,3 +22,5 @@ using OS(windows 7,server 2016,windows 10 ,windows 11,kali linux,vm)
 - <img width="1220" height="557" alt="tcp scan" src="https://github.com/user-attachments/assets/13b06e9d-96d2-4b51-983c-ddabfd4a9141" />
 <img width="1192" height="665" alt="host Descovery1" src="https://github.com/user-attachments/assets/d1a534e3-a58a-48e9-b6fa-7785038c77f8" />
 <img width="1038" height="627" alt="host Descovery" src="https://github.com/user-attachments/assets/81b577e9-038b-47e2-8f6e-1f50b8a01bb5" />
+<img width="1209" height="475" alt="tcp all port scan" src="https://github.com/user-attachments/assets/d640b283-8121-46de-b297-8a991a4f1850" />
+
